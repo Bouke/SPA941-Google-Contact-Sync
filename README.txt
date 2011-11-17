@@ -1,9 +1,9 @@
 FEATURES
 =======================================================================
 This script downloads the contacts from a given group from your Google
-Account and adds them to the phonebook of your Linksys/Cisco SPA941. I
-added the script to the startup programs of my computer, so that syncs
-my contacts on an every day basis.
+Account and adds them to the phonebook of your Linksys/Cisco SPA941 or
+SPA962. I added the script to the startup programs of my computer, so 
+that syncs my contacts on an every day basis.
 
 
 FEATURES
@@ -11,7 +11,7 @@ FEATURES
 
   * Download contacts from Google Account
 
-  * Writing contacts to Linksys/Cisco SPA941
+  * Writing contacts to Linksys/Cisco SPA941 (and SPA962)
 
 
 INSTALLATION
@@ -29,3 +29,6 @@ can get it from one of the following sources:
 
     svn co http://framework.zend.com/svn/framework/standard/branches/release-1.7/library/Zend
 
+THANKS TO
+=======================================================================
+Lennart van der Hoorn for providing SPA962 field names.
